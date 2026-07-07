@@ -1,2 +1,9 @@
-# Orion-Studio-site
-Orion Studio helps creators produce, review and publish original short-form videos to their own social media accounts.  Users always review and approve the content before publication.
+# Orion Studio
+
+Desktop AI-assisted content production software.
+
+Orion Studio helps creators produce, organize and publish original videos while keeping creators in control of every publication.
+
+Official website:
+
+(agregamos la URL de GitHub Pages cuando exista)
